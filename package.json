@@ -6,12 +6,11 @@
 		"prepublishOnly": "npm run build",
 		"build": "rm -rf ./esm && tsc -p ./tsconfig.esm.json",
 		"build-amd": "rm -rf ./out && tsc -p ./tsconfig.amd.json",
-		"watch-esm": "tsc -p ./tsconfig.esm.json --watch",
-		"test": "npm run build-amd && mocha ./test/all.js",
-		"dev": "node --max_old_space_size=4092 & cd website && npm run dev",
+		"dev": "tsc -p ./tsconfig.esm.json --watch",
+		"tes t": "npm run build-amd && mocha ./test/all.js",
 		"prod": "rm -rf ./docs && node --max_old_space_size=4092 & cd website && npm run build",
 		"deploy": "npm run build && npm run prod && gh-pages -d docs -r git@github.com:DTStack/monaco-sql-languages.git",
-		"format": "prettier --write .",
+		"prettier": "prettier --write .",
 		"prettier-check": "prettier --check .",
 		"check-types": "tsc -p ./tsconfig.json",
 		"release": "node ./scripts/bumpVersion.js"
@@ -61,6 +60,7 @@
 		"requirejs": "^2.3.6",
 		"simple-git-hooks": "^2.11.1",
 		"standard-version": "^9.5.0",
+		"turbo": "^2.3.0",
 		"typescript": "^5.0.4"
 	},
 	"simple-git-hooks": {
