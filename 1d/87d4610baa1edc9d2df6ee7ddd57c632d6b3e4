@@ -1,0 +1,27 @@
+samples/esm-vite-monaco-editor-react/package.json
+  s_c51a0cf536c2d1::t_1ffad775618d72 13
+website/package.json
+  s_c51a0cf536c2d1::t_a055ab7ed6568e 20
+samples/esm-monaco-webpack-plugin/package.json
+  s_c51a0cf536c2d1::t_003688f63cc02c 26
+samples/esm-plain-webpack/package.json
+  s_c51a0cf536c2d1::t_cf2cf3cb56809a 26
+samples/esm-vite/package.json
+  s_c51a0cf536c2d1::t_ab2600b34aec84 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "1d87d4610baa1edc9d2df6ee7ddd57c632d6b3e4",
+  "prompts": {},
+  "sessions": {
+    "s_c51a0cf536c2d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7cd99bff-2b10-4d7c-90de-905b79ef9dfa",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
