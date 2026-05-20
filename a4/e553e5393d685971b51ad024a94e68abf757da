@@ -1,0 +1,37 @@
+package.json
+  h_3070dc1062bb3b 3,59
+test/all.js
+  s_c51a0cf536c2d1::t_2536d7bbdc6398 6,8-15,39-45
+  s_c51a0cf536c2d1::t_6fd9d0f4bff776 17,23-24,47-64
+  s_c51a0cf536c2d1::t_a11c6c7f2120db 46
+  s_c51a0cf536c2d1::t_501ac328d220a0 25-27,33-34
+  s_c51a0cf536c2d1::t_526c22e6af8ce2 74-75
+  s_c51a0cf536c2d1::t_4c1786845a2ba3 28-32
+  s_c51a0cf536c2d1::t_d100f8440933f6 88-99
+test/setup.js
+  s_c51a0cf536c2d1::t_023f5474480c39 33-36,38
+  s_c51a0cf536c2d1::t_2536d7bbdc6398 37,39
+src/fillers/monaco-editor-core-amd.ts
+  s_c51a0cf536c2d1::t_2536d7bbdc6398 7,12-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "a4e553e5393d685971b51ad024a94e68abf757da",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_c51a0cf536c2d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7cd99bff-2b10-4d7c-90de-905b79ef9dfa",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
