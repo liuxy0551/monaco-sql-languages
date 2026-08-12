@@ -1,0 +1,23 @@
+src/languageFeatures.ts
+  s_6c48f77a48bdb9::t_15b85419f150d3 154-156,167-168,171-172
+  s_6c48f77a48bdb9::t_e5ffd92e7da824 148-149,157-159,161-162
+  s_6c48f77a48bdb9::t_6d8859de1e3421 150-153,164-166
+src/test/languageFeatures.test.ts
+  s_6c48f77a48bdb9::t_2429fee468cba1 169-220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "596e5dcb8523c275f22e870df2d7de774c54e58a",
+  "prompts": {},
+  "sessions": {
+    "s_6c48f77a48bdb9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa7b8-addc-7d70-ac3b-dbf783f0d3c3",
+        "model": "gpt-5.4"
+      },
+      "human_author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
