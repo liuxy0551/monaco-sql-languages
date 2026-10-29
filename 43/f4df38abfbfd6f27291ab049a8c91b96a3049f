@@ -1,0 +1,140 @@
+assets/action-0d2ff913.js
+  h_3070dc1062bb3b 1
+assets/activityBar-1cfa3fec.js
+  h_3070dc1062bb3b 1
+assets/auxiliaryBar-53ef2d9e.js
+  h_3070dc1062bb3b 1
+assets/builtin-4b4a9c42.js
+  h_3070dc1062bb3b 1
+assets/colorTheme-fbe26c93.js
+  h_3070dc1062bb3b 1
+assets/contextMenu-bce80d4c.js
+  h_3070dc1062bb3b 1
+assets/cssMode-3e22b280.js
+  h_3070dc1062bb3b 1
+assets/editor-0b5a4adc.js
+  h_3070dc1062bb3b 1
+assets/editorTree-7a05ce18.js
+  h_3070dc1062bb3b 1
+assets/explorer-0c208b0e.js
+  h_3070dc1062bb3b 1
+assets/extension-c46f4124.js
+  h_3070dc1062bb3b 1
+assets/flink-4f7789a3.js
+  h_3070dc1062bb3b 1
+assets/flink.worker-5d2eaa70.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-27,32-36,38-41,44,49-51
+assets/folderTree-dd2bc366.js
+  h_3070dc1062bb3b 1
+assets/freemarker2-fb7d7e7b.js
+  h_3070dc1062bb3b 1
+assets/generic-a5c0db75.js
+  h_3070dc1062bb3b 1
+assets/generic.worker-ba232853.js
+  h_3070dc1062bb3b 1,5,7-12,14,16,18,20-24,26-27,32-41,44,47,49-51
+assets/handlebars-b991aa87.js
+  h_3070dc1062bb3b 1
+assets/hive-4d7be1ef.js
+  h_3070dc1062bb3b 1
+assets/hive.worker-e2df6a16.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-27,32-36,38-41,49-51
+assets/html-420e473e.js
+  h_3070dc1062bb3b 1
+assets/htmlMode-558795ef.js
+  h_3070dc1062bb3b 1
+assets/impala-c689f30b.js
+  h_3070dc1062bb3b 1
+assets/impala.worker-55b6d7a9.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-24,26-27,32-36,38-41,49-51
+assets/index-06743534.js
+  h_3070dc1062bb3b 1
+assets/index-46a81abc.js
+  h_3070dc1062bb3b 1
+assets/index-4c957d12.js
+  h_3070dc1062bb3b 1
+assets/index-560106ff.js
+  h_3070dc1062bb3b 1,9,17,25,33-34,37-38,40,53,61,66-67,75-76,79-80,84,88-89,146,148-149,175-180,184,187,210,214,217,230,232-234,238,240-241,244,246,260-268,270-276,279-280,282-289,350,390,433-439,441-443,447,451-467,469-470,476-477,479-483,485-487,489-490,494-496,498-500,503,506,508,510-521,531-533,549-552,561-562,564,566-567,570,576,580,613-619,621-622,624-627,631-636,638-641,645,650-652,654-655,661-662,667,673,675,679-686,689-703,742-743,750-751,1113,1115,1117-1119,1123-1124,1126,1128,1130,1132-1134,1139,1144,1149,1154,1159,1164-1165,1167-1168,1171-1176,1178-1181,1189-1191,1194-1195,1202,1223-1227,1235,1240-1243,1245
+assets/index-9cbd94a5.js
+  h_3070dc1062bb3b 1
+assets/javascript-3e22bed7.js
+  h_3070dc1062bb3b 1
+assets/jsonMode-47f1dde8.js
+  h_3070dc1062bb3b 1
+assets/keyboardFocus-de3aa41d.js
+  h_3070dc1062bb3b 1
+assets/layout-ea0f02a8.js
+  h_3070dc1062bb3b 1
+assets/liquid-7d85b300.js
+  h_3070dc1062bb3b 1
+assets/locale-8e74c52b.js
+  h_3070dc1062bb3b 1
+assets/mdx-f2d63a2b.js
+  h_3070dc1062bb3b 1
+assets/menuBar-934c8e17.js
+  h_3070dc1062bb3b 1
+assets/module-2633b7ed.js
+  h_3070dc1062bb3b 1
+assets/monaco-1d562ceb.js
+  h_3070dc1062bb3b 1
+assets/mysql-e860f230.js
+  h_3070dc1062bb3b 1
+assets/mysql.worker-ae42d1d5.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-27,32-36,38-41,44,47,49-51
+assets/notification-d3623d78.js
+  h_3070dc1062bb3b 1
+assets/output-6df2851a.js
+  h_3070dc1062bb3b 1
+assets/panel-6038a7ea.js
+  h_3070dc1062bb3b 1
+assets/pgsql-108bcf0a.js
+  h_3070dc1062bb3b 1
+assets/pgsql.worker-5e2e615a.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-24,27,32-36,38-41,49-51
+assets/python-5fd5fe04.js
+  h_3070dc1062bb3b 1
+assets/razor-093b7e85.js
+  h_3070dc1062bb3b 1
+assets/search-66bf8643.js
+  h_3070dc1062bb3b 1
+assets/setting-10842e7a.js
+  h_3070dc1062bb3b 1
+assets/setupLanguageMode-6b202510.js
+  h_3070dc1062bb3b 1
+assets/sidebar-99156c3c.js
+  h_3070dc1062bb3b 1
+assets/spark-851f127a.js
+  h_3070dc1062bb3b 1
+assets/spark.worker-4fa61cc3.js
+  h_3070dc1062bb3b 1,5,7-12,14,16,18,20-27,32-41,49-51
+assets/statusBar-6f2b7f67.js
+  h_3070dc1062bb3b 1
+assets/textmate-833e0f50.js
+  h_3070dc1062bb3b 1
+assets/trino-a1920009.js
+  h_3070dc1062bb3b 1
+assets/trino.worker-fd85d6a4.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-27,32-36,38-41,49-51
+assets/tsMode-79cd36b8.js
+  h_3070dc1062bb3b 1
+assets/typescript-05ebae94.js
+  h_3070dc1062bb3b 1
+assets/useMonaco-3364d89c.js
+  h_3070dc1062bb3b 1
+assets/xml-cda4eccb.js
+  h_3070dc1062bb3b 1
+assets/yaml-5ab07e06.js
+  h_3070dc1062bb3b 1
+index.html
+  h_3070dc1062bb3b 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "43f4df38abfbfd6f27291ab049a8c91b96a3049f",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
