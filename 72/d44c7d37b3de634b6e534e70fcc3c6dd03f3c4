@@ -1,0 +1,126 @@
+assets/action-09f976d6.js
+  h_3070dc1062bb3b 1
+assets/activityBar-eff05065.js
+  h_3070dc1062bb3b 1
+assets/auxiliaryBar-7f94a410.js
+  h_3070dc1062bb3b 1
+assets/builtin-0961c011.js
+  h_3070dc1062bb3b 1
+assets/colorTheme-00b44536.js
+  h_3070dc1062bb3b 1
+assets/contextMenu-03713143.js
+  h_3070dc1062bb3b 1
+assets/cssMode-9ee27505.js
+  h_3070dc1062bb3b 1
+assets/editor-ca2803b3.js
+  h_3070dc1062bb3b 1
+assets/editorTree-b3b3ab1f.js
+  h_3070dc1062bb3b 1
+assets/explorer-adacf687.js
+  h_3070dc1062bb3b 1
+assets/extension-5a9d5e30.js
+  h_3070dc1062bb3b 1
+assets/flink-9289c399.js
+  h_3070dc1062bb3b 1
+assets/folderTree-0775b196.js
+  h_3070dc1062bb3b 1
+assets/freemarker2-e0bde192.js
+  h_3070dc1062bb3b 1
+assets/generic-84eef823.js
+  h_3070dc1062bb3b 1
+assets/generic.worker-c0ba01db.js
+  h_3070dc1062bb3b 1,5,7-10,12,16,20-24,26-27,32-33,35-36,38-41,49-51
+assets/handlebars-146924c3.js
+  h_3070dc1062bb3b 1
+assets/hive-d80933ac.js
+  h_3070dc1062bb3b 1
+assets/html-12ff2807.js
+  h_3070dc1062bb3b 1
+assets/htmlMode-2b013b5b.js
+  h_3070dc1062bb3b 1
+assets/impala-7be33bad.js
+  h_3070dc1062bb3b 1
+assets/index-25893027.js
+  h_3070dc1062bb3b 1,9,17,25,33-34,37-38,40,53,61,66-67,75-76,80,84,88-89,180,184,187,210,214,217,230,232-234,238,240-241,244,246,260,262-263,270-272,274-276,279-280,282-284,286-289,350,433-439,441,451-454,456-467,469-470,476-477,479-483,485-487,489-490,494-496,498-500,520-521,531,549-552,562,566-567,570,613-619,621-622,624-627,631-636,638-639,641,645,650-652,654-655,661-662,667,673,675,679-680,682-686,689-693,696,699-703,742-743,1113,1117-1119,1123-1124,1128,1130,1132-1134,1139,1144,1149,1154,1159,1164-1165,1167-1168,1171-1174,1178-1181,1189-1191,1194-1195,1202,1223-1227,1235,1240-1243,1245
+assets/index-4cf22aef.js
+  h_3070dc1062bb3b 1
+assets/index-59f8ac22.js
+  h_3070dc1062bb3b 1
+assets/index-5cb4ee60.js
+  h_3070dc1062bb3b 1
+assets/index-87bb8c94.js
+  h_3070dc1062bb3b 1
+assets/javascript-57b622f2.js
+  h_3070dc1062bb3b 1
+assets/jsonMode-5567d92f.js
+  h_3070dc1062bb3b 1
+assets/keyboardFocus-a9a4d65b.js
+  h_3070dc1062bb3b 1
+assets/layout-8281a4f0.js
+  h_3070dc1062bb3b 1
+assets/liquid-e71f3076.js
+  h_3070dc1062bb3b 1
+assets/locale-7198d397.js
+  h_3070dc1062bb3b 1
+assets/mdx-fdf099c0.js
+  h_3070dc1062bb3b 1
+assets/menuBar-dd6112b4.js
+  h_3070dc1062bb3b 1
+assets/module-21a1084e.js
+  h_3070dc1062bb3b 1
+assets/monaco-56ec5c5e.js
+  h_3070dc1062bb3b 1
+assets/mysql-136f1741.js
+  h_3070dc1062bb3b 1
+assets/notification-9f1c3988.js
+  h_3070dc1062bb3b 1
+assets/output-36eb4205.js
+  h_3070dc1062bb3b 1
+assets/panel-eb5a1851.js
+  h_3070dc1062bb3b 1
+assets/pgsql-9b9b0465.js
+  h_3070dc1062bb3b 1
+assets/python-e5a5ce13.js
+  h_3070dc1062bb3b 1
+assets/razor-b36276bf.js
+  h_3070dc1062bb3b 1
+assets/search-52fc847d.js
+  h_3070dc1062bb3b 1
+assets/setting-d98b320d.js
+  h_3070dc1062bb3b 1
+assets/setupLanguageMode-3563757d.js
+  h_3070dc1062bb3b 1-3
+assets/sidebar-1a0aea9f.js
+  h_3070dc1062bb3b 1
+assets/spark-615f9478.js
+  h_3070dc1062bb3b 1
+assets/statusBar-977e1afe.js
+  h_3070dc1062bb3b 1
+assets/textmate-1d9a04ae.js
+  h_3070dc1062bb3b 1
+assets/trino-1e14e31a.js
+  h_3070dc1062bb3b 1
+assets/tsMode-c2446f11.js
+  h_3070dc1062bb3b 1
+assets/typescript-5ed95bb4.js
+  h_3070dc1062bb3b 1
+assets/useMonaco-bffeff7e.js
+  h_3070dc1062bb3b 1
+assets/xml-5d735dc9.js
+  h_3070dc1062bb3b 1
+assets/yaml-e6fcbbbd.js
+  h_3070dc1062bb3b 1
+index.html
+  h_3070dc1062bb3b 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "72d44c7d37b3de634b6e534e70fcc3c6dd03f3c4",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
